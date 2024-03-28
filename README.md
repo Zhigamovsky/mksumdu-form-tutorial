@@ -1,12 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ## Install needed tools
 - Node.js - https://nodejs.org/en
 - VS Code - https://code.visualstudio.com/
+- git - https://git-scm.com/download/win
 
 ## Clone repository to your computer
 - git clone https://github.com/Zhigamovsky/mksumdu-form-tutorial
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
